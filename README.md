@@ -1,4 +1,5 @@
 # exercice-repo
 repo made for execercices
-We resolved the conflict!
-fixed it again!
+there are chagnes to be made 
+old file
+We are making changes
